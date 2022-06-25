@@ -26,12 +26,14 @@ body {
 
 .main {
   display: flex;
+  margin: 100px;
   justify-content: center;
 }
 
 .bottom {
   display: flex;
   justify-content: center;
+  padding: 30px;
   gap: 50px;
 }
 
